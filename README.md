@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/ojaswa91152" target="blank"><img src="https://img.shields.io/twitter/follow/ojaswa91152?logo=twitter&style=for-the-badge" alt="ojaswa91152" /></a> </p>
 
-- 🔭 I’m currently working on **RAG based AI Teaching Agent**
+- 🔭 I’m currently working on **RAG based AI Teaching Agent.**
 
-- 🌱 I’m currently learning **Web Scrapping And APIs**
+- 🌱 I’m currently learning **Web Scrapping And APIs.**
 
-- 👯 I’m looking to collaborate on **Agentic AI Projects**
+- 👯 I’m looking to collaborate on **Agentic AI Projects.**
 
-- 🤝 I’m looking for help with **Data Scientists**
+- 🤝 I’m looking for help with **Data Scientists.**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ojaswa-srivastava-99b014324](https://www.linkedin.com/in/ojaswa-srivastava-99b014324)
 
-- 💬 Ask me about **Data Analysis**
+- 💬 Ask me about **Data Analysis.**
 
 - 📫 How to reach me **ojaswasrivastava05192876@gmail.com**
 
 - 📄 Know about my experiences [https://1drv.ms/b/c/42618de55e8ea5c4/EZINwOSvaPtKqwfiC2ewIEABnIF5GcRNKf_GcAcDIBh4Pw?e=elVdhK](https://1drv.ms/b/c/42618de55e8ea5c4/EZINwOSvaPtKqwfiC2ewIEABnIF5GcRNKf_GcAcDIBh4Pw?e=elVdhK)
 
-- ⚡ Fun fact **My pursuit of technical efficiency extends to my personal life: i once automated the process of tracking my favorite local cafe's daily menu using a small Python script.**
+- ⚡ Fun fact **My pursuit of technical efficiency extends to my personal life: I once automated the process of tracking my favorite local cafe's daily menu using a small Python script.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

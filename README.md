@@ -27,10 +27,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/770Ojaswa91152" target="blank"><img align="center" src="https://raw.githubusercontent.com/Ojaswa05/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="770Ojaswa91152" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ojaswa-srivastava-99b014324" target="blank"><img align="center" src="https://raw.githubusercontent.com/Ojaswa05/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ojaswa-srivastava-99b014324" height="30" width="40" /></a>
-<a href="https://instagram.com/ojaswa._.srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/Ojaswa05/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ojaswa._.srivastava" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/Ojaswa Srivastava 770" target="blank"><img align="center" src="https://raw.githubusercontent.com/Ojaswa05/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ojaswa Srivastava 770" height="30" width="40" /></a>
+<a href="https://twitter.com/770Ojaswa91152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="770Ojaswa91152" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ojaswa-srivastava-99b014324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ojaswa-srivastava-99b014324" height="30" width="40" /></a>
+<a href="https://instagram.com/ojaswa._.srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ojaswa._.srivastava" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ojaswa srivastava770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ojaswa srivastava770" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

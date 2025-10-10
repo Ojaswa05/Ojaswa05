@@ -21,7 +21,7 @@
 
 - 📫 How to reach me *ojaswasrivastava05192876@gmail.com*
 
-- 📄 Know about my experiences [https://1drv.ms/b/c/42618de55e8ea5c4/EZINwOSvaPtKqwfiC2ewIEABnIF5GcRNKf_GcAcDIBh4Pw?e=elVdhK](https://1drv.ms/b/c/42618de55e8ea5c4/EZINwOSvaPtKqwfiC2ewIEABnIF5GcRNKf_GcAcDIBh4Pw?e=elVdhK)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1O7-JrTbb7bVRu7RghDSZc0XHwU8UYXG9/view?usp=sharing](https://drive.google.com/file/d/1O7-JrTbb7bVRu7RghDSZc0XHwU8UYXG9/view?usp=sharing)
 
 - ⚡ Fun fact *My pursuit of technical efficiency extends to my personal life: I once automated the process of tracking my favorite local cafe's daily menu using a small Python script.*
 

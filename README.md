@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ojaswa-srivastava-99b014324](https://www.linkedin.com/in/ojaswa-srivastava-99b014324)
 
-- 💬 Ask me about *Data Analysis.*
+- 💬 Ask me about *Data and AI*
 
 - 📫 How to reach me *ojaswasrivastava05192876@gmail.com*
 

@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ojaswa Srivastava</h1>
-<h3 align="center">A Passionate Data Science Engineer from India</h3>
+<h1 align="center">Hi 👋, This is Ojaswa Srivastava!</h1>
+<h3 align="center">A Skillful Data Scientist/Data Analyst & AI/ML Engineer building intelligent architectures, scalable RAG agents and LLMs Frameworks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojaswa05&label=Profile%20views&color=0e75b6&style=flat" alt="ojaswa05" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/770Ojaswa91152" target="blank"><img src="https://img.shields.io/twitter/follow/770Ojaswa91152?logo=twitter&style=for-the-badge" alt="770Ojaswa91152" /></a> </p>
 
-- 🔭 I’m currently working on *RAG based AI Teaching Agent.*
+- 🔭 I’m currently focused on building * AI Agents* which plays a big role in upcoming generations.
 
-- 🌱 I’m currently learning *Web Scrapping And APIs.*
+- 🌱 I’m currently learning *API Development & Automations.*
 
-- 👯 I’m looking to collaborate on *Agentic AI Projects.*
+- 👯 I’m excited to collaborate on *Agentic AI Projects.*
 
 - 🤝 I’m looking for help with *Data Scientists.*
 

@@ -20,7 +20,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-203A43?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ojaswa05.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ojaswa05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ojaswa05)
 
-<sub>Experienced in Python-driven data engineering, predictive modeling, and transforming raw data into impactful, user-ready applications.</sub>
+<sub>🌐 Experienced in Python-driven data engineering, predictive modeling, and transforming raw data into impactful, user-ready applications. Explore my data science projects, machine learning case studies, and technical write-ups in my portfolio.</sub>
 
 </div>
 

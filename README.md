@@ -101,7 +101,7 @@ Forecasting energy demand using Italy's 2016 solar generation and load data.
 
 ### 🛠️ Tools & Engineering
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postgres,mysql,docker,aws,gcp,azure&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,jupyter,postgres,mysql,docker,aws,gcp,azure&perline=10)](https://skillicons.dev)
 <br/>
 <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Pipelines%20%26%20Big%20Data-2C5364?style=flat-square"/>

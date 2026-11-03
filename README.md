@@ -1,43 +1,130 @@
-<h1 align="center">Hi 👋, This is Ojaswa Srivastava!</h1>
-<h3 align="center">A Skillful Data Scientist/Data Analyst & AI/ML Engineer building intelligent architectures, scalable RAG agents and LLMs Frameworks.</h3>
+<!-- ============================================================
+  SETUP: 1) Repo ka naam EXACTLY aapke GitHub username jaisa ho (public)
+         2) Neeche YOUR_USERNAME, LinkedIn URL, email replace karein
+         3) Har project me ek result/metric line add karein
+============================================================ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ojaswa05&label=Profile%20views&color=0e75b6&style=flat" alt="ojaswa05" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ojaswa05" alt="ojaswa05" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Ojaswa%20Srivastava&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20GenAI&descAlignY=58&descSize=18" alt="header" width="100%"/>
 
-<p align="left"> <a href="https://twitter.com/770Ojaswa91152" target="blank"><img src="https://img.shields.io/twitter/follow/770Ojaswa91152?logo=twitter&style=for-the-badge" alt="770Ojaswa91152" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=620&lines=B.Tech+Data+Science+%7C+Class+of+2027;Building+RAG+%26+Time+Series+Forecasting+Projects;Turning+data+into+decisions" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently focused on building * AI Agents* which plays a big role in upcoming generations.
+<br/>
 
-- 🌱 I’m currently learning *API Development & Automations.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-2C5364?style=for-the-badge&logo=readthedocs&logoColor=white)](YOUR_RESUME_LINK)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=203a43&style=for-the-badge)](https://github.com/YOUR_USERNAME)
 
-- 👯 I’m excited to collaborate on *Agentic AI Projects.*
+</div>
 
-- 🤝 I’m looking for help with *Data Scientists.*
+---
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ojaswa-srivastava-99b014324](https://www.linkedin.com/in/ojaswa-srivastava-99b014324)
+## 👋 About Me
 
-- 💬 Ask me about *Data and AI.*
+I'm a **B.Tech Data Science student** (2023 – 2027) at Chaudhary Devi Lal University, based in Varanasi, India. I enjoy building end-to-end data and AI systems, from raw data and statistical modelling to LLM-powered applications that people can actually use.
 
-- 📫 How to reach me *ojaswasrivastava05192876@gmail.com*
+- 🔭 Currently building: **RAG Based AI Teaching Assistant** and **ARIMA-based energy demand forecasting**
+- 💼 Previously: **Data Science Intern** at The Developers Arena (Oct – Nov 2025)
+- 🎯 Open to: **Data Science / ML / Analytics internships and entry-level roles**
+- 📫 Best way to reach me: **LinkedIn / email above**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1llalE6kc6J6HtpUA6T0OlMgKZ9rplPWf/view?usp=sharing.
+---
 
-- ⚡ Fun fact *My pursuit of technical efficiency extends to my personal life: I once automated the process of tracking my favorite local cafe's daily menu using a small Python script.*
+## 🚀 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/770Ojaswa91152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="770Ojaswa91152" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ojaswa-srivastava-99b014324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ojaswa-srivastava-99b014324" height="30" width="40" /></a>
-<a href="https://instagram.com/ojaswa._.srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ojaswa._.srivastava" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/Ojaswa Srivastava 770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ojaswa Srivastava 770" height="30" width="40" /></a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🎓 RAG Based AI Teaching Assistant
+Ask questions about video lectures and get answers grounded in the actual lecture content.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojaswa05&show_icons=true&locale=en&layout=compact" alt="ojaswa05" /></p>
+**Pipeline:** Video → Audio → **Whisper** transcription → chunking → **bge-m3** embeddings → retrieval → **llama3.2 (Ollama)** answer generation
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojaswa05&show_icons=true&locale=en" alt="ojaswa05" /></p>
+`Python` `Whisper` `bge-m3` `Ollama` `llama3.2` `RAG`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojaswa05&" alt="ojaswa05" /></p>
+[🔗 View Repository](https://github.com/YOUR_USERNAME/REPO_NAME)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Time Series Forecasting Using ARIMA
+Forecasting energy demand using Italy's 2016 solar generation and load data.
+
+**Covers:** stationarity checks, ACF/PACF analysis, ARIMA model selection, forecast evaluation
+
+`Python` `pandas` `statsmodels` `ARIMA` `Matplotlib`
+
+[🔗 View Repository](https://github.com/YOUR_USERNAME/REPO_NAME)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_2)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Data**
+
+![Python](https://skillicons.dev/icons?i=py,sql)
+
+**ML / AI**
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/statsmodels-4B8BBE?style=flat-square"/>
+
+**Tools**
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,jupyter)
+
+</div>
+
+---
+
+## 💼 Experience & Education
+
+| | Role | Where | When |
+|---|---|---|---|
+| 💼 | Data Science Intern | The Developers Arena (Remote) | Oct 2025 – Nov 2025 |
+| 🎓 | B.Tech, Data Science | Chaudhary Devi Lal University | Sep 2023 – Jun 2027 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to talk about data science, GenAI, or collaboration opportunities. If you're hiring or want to work together, drop me a message.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+[![Email](https://img.shields.io/badge/Send-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,100:0f2027&section=footer" width="100%"/>
+
+</div>

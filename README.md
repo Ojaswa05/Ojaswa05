@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojaswa-srivastava/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojaswasrivastava05192876@@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-2C5364?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1llalE6kc6J6HtpUA6T0OlMgKZ9rplPWf/view)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=203a43&style=for-the-badge)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=203a43&style=for-the-badge)](https://github.com/Ojaswa05)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ## 👋 About Me
 
-I'm a **B.Tech Data Science student** (2023 – 2027) at Chaudhary Devi Lal University, based in Varanasi, India. I enjoy building end-to-end data and AI systems, from raw data and statistical modelling to LLM-powered applications that people can actually use.
+I'm a **B.Tech Data Science student** (2023 – 2027) at Chaudhary Devi Lal University, based in Sirsa, India. I enjoy building end-to-end data and AI systems, from raw data and statistical modelling to LLM-powered applications that people can actually use.
 
 - 🔭 Currently building: **RAG Based AI Teaching Assistant** and **ARIMA-based energy demand forecasting**
 - 💼 Previously: **Data Science Intern** at The Developers Arena (Oct – Nov 2025)
@@ -47,7 +47,7 @@ Ask questions about video lectures and get answers grounded in the actual lectur
 
 `Python` `Whisper` `bge-m3` `Ollama` `llama3.2` `RAG`
 
-[🔗 View Repository](https://github.com/YOUR_USERNAME/REPO_NAME)
+[🔗 View Repository](https://github.com/Ojaswa05/RAG-Based-AI-Knowledge-Agent)
 
 </td>
 <td width="50%" valign="top">
@@ -59,7 +59,7 @@ Forecasting energy demand using Italy's 2016 solar generation and load data.
 
 `Python` `pandas` `statsmodels` `ARIMA` `Matplotlib`
 
-[🔗 View Repository](https://github.com/YOUR_USERNAME/REPO_NAME)
+[🔗 View Repository](https://github.com/Ojaswa05/Time-Series-Forecasting-using-ARIMA)
 
 </td>
 </tr>
@@ -67,8 +67,8 @@ Forecasting energy demand using Italy's 2016 solar generation and load data.
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_2)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&theme=tokyonight&hide_border=true)](https://github.com/Ojaswa05/RAG-Based-AI-Knowledge-Agent)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&theme=tokyonight&hide_border=true)](https://github.com/Ojaswa05/Time-Series-Forecasting-using-ARIMA)
 
 </div>
 

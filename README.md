@@ -17,7 +17,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojaswa-srivastava/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojaswasrivastava05192876@@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-2C5364?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1llalE6kc6J6HtpUA6T0OlMgKZ9rplPWf/view)
-[![Personal Website](https://img.shields.io/badge/Portfolio-203A43?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ojaswa05.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-203A43?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ojaswa05.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ojaswa05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ojaswa05)
+
+<sub>🌐 Explore my projects, case studies and write-ups in my portfolio</sub>
 
 </div>
 

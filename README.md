@@ -27,7 +27,7 @@
 
 I'm a **B.Tech Data Science student** (2023 – 2027) at Chaudhary Devi Lal University, based in Sirsa, India. I enjoy building end-to-end data and AI systems, from raw data and statistical modelling to LLM-powered applications that people can actually use.
 
-- 🔭 Currently building: **RAG Based AI Teaching Assistant** and **ARIMA-based energy demand forecasting**
+- 🔭 Currently Learning: **API Integration** and **Automation**
 - 💼 Previously: **Data Science Intern** at The Developers Arena (Oct – Nov 2025)
 - 🎯 Open to: **Data Science / ML / Analytics internships and entry-level roles**
 - 📫 Best way to reach me: **LinkedIn / Email above**

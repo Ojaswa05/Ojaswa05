@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojaswa-srivastava/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojaswasrivastava05192876@@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-2C5364?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1llalE6kc6J6HtpUA6T0OlMgKZ9rplPWf/view)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=203a43&style=for-the-badge)](https://github.com/Ojaswa05)
+[![Personal Website](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=203a43&style=for-the-badge)](https://ojaswa05.github.io/)
 
 </div>
 
@@ -30,7 +30,7 @@ I'm a **B.Tech Data Science student** (2023 – 2027) at Chaudhary Devi Lal Univ
 - 🔭 Currently building: **RAG Based AI Teaching Assistant** and **ARIMA-based energy demand forecasting**
 - 💼 Previously: **Data Science Intern** at The Developers Arena (Oct – Nov 2025)
 - 🎯 Open to: **Data Science / ML / Analytics internships and entry-level roles**
-- 📫 Best way to reach me: **LinkedIn / email above**
+- 📫 Best way to reach me: **LinkedIn / Email above**
 
 ---
 
@@ -64,13 +64,6 @@ Forecasting energy demand using Italy's 2016 solar generation and load data.
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&theme=tokyonight&hide_border=true)](https://github.com/Ojaswa05/RAG-Based-AI-Knowledge-Agent)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&theme=tokyonight&hide_border=true)](https://github.com/Ojaswa05/Time-Series-Forecasting-using-ARIMA)
-
-</div>
 
 ---
 

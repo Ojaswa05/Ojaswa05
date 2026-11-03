@@ -17,7 +17,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojaswa-srivastava/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojaswasrivastava05192876@@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-2C5364?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1llalE6kc6J6HtpUA6T0OlMgKZ9rplPWf/view)
-[![Profile View](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=203a43&style=for-the-badge)](https://github.com/Ojaswa05)
 
 </div>
 

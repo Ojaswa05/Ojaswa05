@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojaswa-srivastava/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojaswasrivastava05192876@@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-2C5364?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1llalE6kc6J6HtpUA6T0OlMgKZ9rplPWf/view)
-[![Personal Website](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=203a43&style=for-the-badge)](https://ojaswa05.github.io/)
+[![Profile View](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=203a43&style=for-the-badge)](https://github.com/Ojaswa05)
 
 </div>
 
@@ -71,17 +71,41 @@ Forecasting energy demand using Italy's 2016 solar generation and load data.
 
 <div align="center">
 
-**Languages & Data**
+### 🧠 Machine Learning & AI
 
-![Python](https://skillicons.dev/icons?i=py,sql)
+<img src="https://img.shields.io/badge/NLP%20%26%20Generative%20AI-0F2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-0F2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-203A43?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/Supervised%20%26%20Unsupervised%20Learning-2C5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning%20Frameworks-0F2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-203A43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation%20%26%20Tuning-2C5364?style=flat-square"/>
 
-**ML / AI**
+### 💻 Programming & Web
 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/statsmodels-4B8BBE?style=flat-square"/>
+[![Programming](https://skillicons.dev/icons?i=py,r,fastapi,bash,powershell&perline=8)](https://skillicons.dev)
+<br/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-6E40C9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Front--end%20Basics-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
-**Tools**
+### 📊 Frameworks & Analysis
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,jupyter)
+<img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-F7931E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Preprocessing-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Applied%20Mathematics%20%26%20Statistics-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/MS%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
+### 🛠️ Tools & Engineering
+
+[![Tools](https://skillicons.dev/icons?i=git,github,jupyter,vscode,postgres,mysql,docker,aws,gcp,azure&perline=10)](https://skillicons.dev)
+<br/>
+<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Pipelines%20%26%20Big%20Data-2C5364?style=flat-square"/>
 
 </div>
 
@@ -115,8 +139,8 @@ I'm always happy to talk about data science, GenAI, or collaboration opportuniti
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Email](https://img.shields.io/badge/Send-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ojaswa-srivastava/)
+[![Email](https://img.shields.io/badge/Send-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojaswasrivastava05192876L@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,100:0f2027&section=footer" width="100%"/>
 
